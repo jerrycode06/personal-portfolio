@@ -15,7 +15,7 @@
       "country": "India"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1svdFraJ8qSZB80JQkbG_NtBMBrjlDQz0/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1B0nmMBHjc5phKFsz9xZvXgbh6HaaWfk-/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -128,9 +128,9 @@
       },
       {
         "title": "Amazon Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": ""
+        "category": "Amazone Clone built with ReactJS",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-3349b.web.app"
       }
     ]
   },
