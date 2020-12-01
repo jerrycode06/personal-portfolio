@@ -15,7 +15,7 @@
       "country": "India"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1B0nmMBHjc5phKFsz9xZvXgbh6HaaWfk-/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1ODnfQCjMqgXOrxP0XNyPgZNyZe-lluVU/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -51,22 +51,25 @@
     ],
     "work": [
       {
+        "company": "CoEdify Technology",
+        "title": "Web Developer",
+        "link": "http://www.coedify.com",
+        "years": "Oct 2020",
+        "description": "I am Working as a MERN Stack Developer in which I make front-end using React JS & RESTful APIs with Node JS and Express JS ."
+      },
+      {
         "company": "AMUHacks 1.0",
         "title": "Mentor in Website Development",
+        "link": "https://amuhacks.netlify.app/",
         "years": "September 2020",
         "description": "Serve as a mentor on website development in a Hackathon to guide participants who are working on Web Development Projects."
       },
       {
         "company": "HackAMU 2.0",
         "title": "Team Leader && Front-End & Python Developer",
+        "link": "https://github.com/Saarge-z/HackathonAMU-2.0",
         "years": "April 2020",
         "description": "Built a project in a hackathon called *COVID-19 Engine* with other team members, a web application with some machine learning implementation and a notification system for updating Corona cases in area and finished in Top-10."
-      },
-      {
-        "company": "HackCBS 2.0",
-        "title": "Team-Member && Front-End Developer",
-        "years": "Oct 2019",
-        "description": "Participated in a Asia-Level Hackathon organized by MLH (Major League Hacking) and Built a project *JoyCode* with other team members, a website which is used to teach code to kids (age 8-14)."
       }
     ],
     "skills": [
